@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BOSTON one-word domains still available to buy.
 
-This dataset contains 4,791 .BOSTON one word domains with availability, attractiveness and demand scores.
+This dataset contains 5,067 .BOSTON one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BOSTON one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=boston-oneword-domains&utm_content=description.top) (4,788) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,16 +13,16 @@ If you want to search & filters the complete database of [.BOSTON one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/boston-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/boston-oneword-domains/blob/main/boston.csv"><b>⬇️ CSV (4.79K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/boston-oneword-domains/blob/main/boston.json"><b>⬇️ JSON (4.79K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/boston-oneword-domains/blob/main/boston.csv"><b>⬇️ CSV (5.07K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/boston-oneword-domains/blob/main/boston.json"><b>⬇️ JSON (5.07K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=boston-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.79K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.boston        | premium   | 70       | 38%    | 3      |           |         |         |
-| aaron.boston      | premium   | 88       | 32%    | 5      |           |         |         |
+| aaa.boston        | premium   | 70       | 35%    | 3      |           |         |         |
+| aaron.boston      | premium   | 88       | 28%    | 5      |           |         |         |
 | abactinal.boston  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.boston      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.boston  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.BOSTON one word domai
 | abatic.boston     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.boston    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.boston   | available | 50       | 1%     | 8      |           |         |         |
-| abc.boston        | premium   | 102      | 41%    | 3      |           |         |         |
+| abc.boston        | premium   | 102      | 39%    | 3      |           |         |         |
 | abdicable.boston  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.boston  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.boston | available | 56       | 1%     | 10     |           |         |         |
@@ -44,18 +44,18 @@ If you want to search & filters the complete database of [.BOSTON one word domai
 | aberrant.boston   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.boston    | available | 56       | 2%     | 7      |           |         |         |
 | abhorrent.boston  | available | 54       | 3%     | 9      |           |         |         |
+| abide.boston      | available | 94       | 15%    | 5      |           |         |         |
 | abiding.boston    | available | 106      | 5%     | 7      |           |         |         |
 | abient.boston     | available | 54       | 1%     | 6      |           |         |         |
-| abit.boston       | available | 66       | 16%    | 5      |           |         |         |
+| abit.boston       | available | 66       | 12%    | 5      |           |         |         |
 | abject.boston     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.boston     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.boston  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.boston     | available | 82       | 2%     | 6      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/boston-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/boston-oneword-domains/blob/main/boston.csv"><b>⬇️ CSV (4.79K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/boston-oneword-domains/blob/main/boston.json"><b>⬇️ JSON (4.79K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/boston-oneword-domains/blob/main/boston.csv"><b>⬇️ CSV (5.07K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/boston-oneword-domains/blob/main/boston.json"><b>⬇️ JSON (5.07K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=boston-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.79K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.BOSTON one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
