@@ -81,7 +81,7 @@ print(df.head())
 | good.boston       | premium   | $50       | $27.99        | 82             | 55     | 4      | name.com              |
 | simple.boston     | available | $19.99    | $27.99        | 128            | 48     | 6      | name.com              |
 | net.boston        | resell    | —         | —             | 70             | 53     | 3      | Dynadot Inc           |
-| zero.boston       | premium   | $50       | $27.99        | 112            | 54     | 4      | name.com              |
+| zero.boston       | premium   | $50       | $27.99        | 112            | 53     | 4      | name.com              |
 | genius.boston     | available | $19.99    | $27.99        | 98             | 45     | 6      | name.com              |
 | mike.boston       | resell    | —         | —             | 94             | 51     | 4      | Go Canada Domains Inc |
 
