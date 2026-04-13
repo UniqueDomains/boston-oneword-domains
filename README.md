@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .boston one-word domains from Uniq
 
 **Public extract:** 9,572 rows · **Live catalog:** 9,572 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/boston`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | seventeen.boston  | available | $19.99    | $27.99        | 84             | 62     | 9      | name.com              |
 | now.boston        | resell    | —         | —             | 78             | 66     | 3      | GoDaddy.com, LLC      |
 | nationwide.boston | premium   | $50       | $27.99        | 76             | 66     | 10     | name.com              |
-| alpha.boston      | available | $19.99    | $27.99        | 90             | 54     | 5      | name.com              |
+| alpha.boston      | available | $19.99    | $27.99        | 90             | 53     | 5      | name.com              |
 | home.boston       | resell    | —         | —             | 100            | 62     | 4      | NameCheap, Inc.       |
 | line.boston       | premium   | $52       | $19.50        | 74             | 65     | 4      | namecheap             |
 | true.boston       | available | $19.99    | $27.99        | 86             | 52     | 4      | name.com              |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOSTON One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOSTON One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
