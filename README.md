@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .boston one-word domains from Uniq
 
 **Public extract:** 9,572 rows · **Live catalog:** 9,572 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/boston`  
 **Best for:** founders, investors, studios
 
@@ -76,10 +76,10 @@ print(df.head())
 | athletics.boston  | available | $25.98    | —             | 69             | 52     | 9      | namecheap             |
 | cloud.boston      | resell    | —         | —             | 70             | 59     | 5      | NameCheap, Inc.       |
 | enterprise.boston | premium   | $1,040    | $325          | 68             | 61     | 10     | namecheap             |
-| clear.boston      | available | $19.99    | $27.99        | 90             | 49     | 5      | name.com              |
+| simple.boston     | available | $19.99    | $27.99        | 128            | 49     | 6      | name.com              |
 | the.boston        | resell    | —         | —             | 98             | 58     | 3      | Spaceship, Inc.       |
 | good.boston       | premium   | $50       | $27.99        | 82             | 55     | 4      | name.com              |
-| simple.boston     | available | $19.99    | $27.99        | 128            | 48     | 6      | name.com              |
+| clear.boston      | available | $19.99    | $27.99        | 90             | 49     | 5      | name.com              |
 | net.boston        | resell    | —         | —             | 70             | 53     | 3      | Dynadot Inc           |
 | zero.boston       | premium   | $50       | $27.99        | 112            | 53     | 4      | name.com              |
 | genius.boston     | available | $19.99    | $27.99        | 98             | 45     | 6      | name.com              |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOSTON One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOSTON One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
