@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .boston one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,467 domains · **Median ask:** $42.15 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/boston`  
 **Best for:** founders, investors, studios
 
@@ -81,9 +81,9 @@ print(df.head())
 | SanDiego.boston | available | $23.49    | $23.49        | 74             | 29     | 9      | namesilo         |
 | teams.boston    | premium   | $50       | —             | 62             | 32     | 5      | name.com         |
 | heroes.boston   | available | $30.98    | —             | 68             | 29     | 6      | namecheap        |
-| partners.boston | premium   | $100      | —             | 61             | 32     | 8      | name.com         |
-| backyard.boston | available | $30.98    | —             | 80             | 27     | 9      | namecheap        |
 | William.boston  | premium   | $56       | $25.20        | 74             | 31     | 7      | namecheap        |
+| backyard.boston | available | $30.98    | —             | 80             | 27     | 9      | namecheap        |
+| partners.boston | premium   | $100      | —             | 61             | 31     | 8      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOSTON One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOSTON One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
