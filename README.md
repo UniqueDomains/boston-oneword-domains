@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .boston one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,081 domains · **Median ask:** $35.92 · **High-demand under $2,500:** 12
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/boston`
 **Best for:** founders, investors, studios
 
@@ -75,7 +75,7 @@ print(df.head())
 | azo.boston     | premium   | $47.20    | $21.24        | low            | low    | 3      | namesilo                                                  |
 | ashy.boston    | available | $23.49    | $23.49        | low            | low    | 4      | namesilo                                                  |
 | airport.boston | resell    | —         | —             | medium         | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| bag.boston     | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                  |
+| bag.boston     | premium   | $47.20    | $21.24        | medium         | low    | 3      | namesilo                                                  |
 | avid.boston    | available | $23.49    | $23.49        | medium         | low    | 4      | namesilo                                                  |
 | success.boston | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                                          |
 | bus.boston     | premium   | $242      | $21.24        | high           | low    | 3      | namesilo                                                  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOSTON One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOSTON One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
