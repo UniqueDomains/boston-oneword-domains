@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .boston one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,558 domains · **Median ask:** $35.15 · **High-demand under $2,500:** 16
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/boston`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| aery.boston    | available | $23.49    | $23.49        | low            | low    | 4      | namesilo                                                  |
-| come.boston    | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
-| abo.boston     | premium   | $47.20    | $21.24        | low            | low    | 3      | namesilo                                                  |
-| airy.boston    | available | $23.49    | $23.49        | low            | low    | 4      | namesilo                                                  |
-| cloud.boston   | resell    | —         | —             | medium         | medium | 5      | NameCheap, Inc.                                           |
-| ape.boston     | premium   | $96       | $21.24        | medium         | low    | 3      | namesilo                                                  |
-| arid.boston    | available | $24.98    | $30.98        | low            | low    | 4      | namecheap                                                 |
-| family.boston  | resell    | —         | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| azo.boston     | premium   | $47.20    | $21.24        | low            | low    | 3      | namesilo                                                  |
-| ashy.boston    | available | $23.49    | $23.49        | low            | low    | 4      | namesilo                                                  |
-| salary.boston  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                                          |
-| bag.boston     | premium   | $47.20    | $21.24        | medium         | low    | 3      | namesilo                                                  |
-| avid.boston    | available | $23.49    | $23.49        | medium         | low    | 4      | namesilo                                                  |
-| airport.boston | resell    | —         | —             | medium         | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| bus.boston     | premium   | $242      | $21.24        | high           | low    | 3      | namesilo                                                  |
-| awed.boston    | available | $23.49    | $23.49        | low            | low    | 4      | namesilo                                                  |
-| success.boston | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                                          |
-| but.boston     | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                  |
-| back.boston    | available | $23.49    | $23.49        | high           | low    | 4      | namesilo                                                  |
-| cry.boston     | premium   | $50       | —             | high           | low    | 3      | name.com                                                  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| christmas.boston | premium   | $96       | $21.24        | high           | low    | 9      | namesilo                                                  |
+| come.boston      | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
+| action.boston    | available | —         | —             | high           | low    | 6      | —                                                         |
+| aery.boston      | available | $23.49    | $23.49        | low            | low    | 4      | namesilo                                                  |
+| abo.boston       | premium   | $47.20    | $21.24        | low            | low    | 3      | namesilo                                                  |
+| airy.boston      | available | $23.49    | $23.49        | low            | low    | 4      | namesilo                                                  |
+| cloud.boston     | resell    | —         | —             | medium         | medium | 5      | NameCheap, Inc.                                           |
+| ape.boston       | premium   | $96       | $21.24        | medium         | low    | 3      | namesilo                                                  |
+| arid.boston      | available | $24.98    | $30.98        | low            | low    | 4      | namecheap                                                 |
+| family.boston    | resell    | —         | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| azo.boston       | premium   | $47.20    | $21.24        | low            | low    | 3      | namesilo                                                  |
+| ashy.boston      | available | $23.49    | $23.49        | low            | low    | 4      | namesilo                                                  |
+| salary.boston    | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                                          |
+| bag.boston       | premium   | $47.20    | $21.24        | medium         | low    | 3      | namesilo                                                  |
+| avid.boston      | available | $23.49    | $23.49        | medium         | low    | 4      | namesilo                                                  |
+| airport.boston   | resell    | —         | —             | medium         | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| bus.boston       | premium   | $242      | $21.24        | high           | low    | 3      | namesilo                                                  |
+| awed.boston      | available | $23.49    | $23.49        | low            | low    | 4      | namesilo                                                  |
+| success.boston   | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                                          |
+| but.boston       | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOSTON One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOSTON One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
