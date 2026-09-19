@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .boston one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,894 domains · **Median ask:** $32.47 · **High-demand under $2,500:** 22
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-19
 **Canonical page:** `https://unique.domains/domains/tld/boston`
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,6 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | christmas.boston | premium   | $96       | $21.24        | high           | low    | 9      | namesilo                                                  |
 | come.boston      | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
-| action.boston    | available | —         | —             | high           | low    | 6      | —                                                         |
 | aery.boston      | available | $23.49    | $23.49        | low            | low    | 4      | namesilo                                                  |
 | abo.boston       | premium   | $47.20    | $21.24        | low            | low    | 3      | namesilo                                                  |
 | airy.boston      | available | $23.49    | $23.49        | low            | low    | 4      | namesilo                                                  |
@@ -84,6 +83,7 @@ print(df.head())
 | awed.boston      | available | $23.49    | $23.49        | low            | low    | 4      | namesilo                                                  |
 | success.boston   | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                                          |
 | but.boston       | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                  |
+| back.boston      | available | $23.49    | $23.49        | high           | low    | 4      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOSTON One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOSTON One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
