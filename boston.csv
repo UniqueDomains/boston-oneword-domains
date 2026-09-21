@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 f9137a9c-f9d9-4e25-83fb-1ed156cc3c44,everybodyelse.boston,available,30.98,,medium,low,14,namecheap,,,
 67ec54be-eb6a-47c7-bc87-be128bb750ce,afrikander.boston,available,23.49,23.49,low,low,10,namesilo,,,
 ba399811-e733-406f-a710-0d1b0d9769d3,divert.boston,available,19.99,27.99,high,low,6,name.com,,,
-17d50ca6-fa06-4f8e-8ab4-3941d42854e2,BlackThursday.boston,available,23.49,23.49,medium,low,14,namesilo,,,
+17d50ca6-fa06-4f8e-8ab4-3941d42854e2,blackthursday.boston,available,23.49,23.49,medium,low,14,namesilo,,,
 1f156f2c-cf46-4ae4-95b1-a8e6e2fb59aa,howmuchisit.boston,available,23.49,23.49,medium,low,14,namesilo,,,
 7675bd13-89b5-4cdf-89cf-76b1560c1866,threatening.boston,available,23.49,23.49,high,low,11,namesilo,,,
 1cfaa2c5-48ee-48aa-bfe4-d7fc7c116955,ofapiece.boston,available,23.49,23.49,low,low,10,namesilo,,,
@@ -39,41 +39,40 @@ bfae7805-6fcc-4f6e-8eaa-addd2d5a2e6b,planted.boston,available,19.99,27.99,medium
 c6b1affa-3cab-4625-9684-e1dcf9e1dfcf,certainly.boston,available,23.49,23.49,medium,low,9,namesilo,,,
 0126ee47-14a3-4c01-af2e-78a94e40309b,use.boston,premium,47.2,21.24,high,low,3,namesilo,,,
 83d6ac08-c61e-4b9d-9d53-643e319a9569,receptionchair.boston,available,23.49,23.49,medium,low,15,namesilo,,,
-9a9b7bb9-540f-482d-833f-9e0a66113d33,Ilikepie.boston,available,30.98,,medium,low,10,namecheap,,,
+9a9b7bb9-540f-482d-833f-9e0a66113d33,ilikepie.boston,available,30.98,,medium,low,10,namecheap,,,
 ced04df5-a4c9-48a2-a5bf-479444438857,nan.boston,premium,50,,high,low,3,name.com,,,
 5bca5906-ac1d-43de-8407-b27b7d74e7c1,mount.boston,available,23.49,23.49,medium,low,5,namesilo,,,
-a7c0d6e4-2a97-4296-8d97-f9301bf36d59,UnitedKingdom.boston,available,,,medium,low,14,,,,
+a7c0d6e4-2a97-4296-8d97-f9301bf36d59,unitedkingdom.boston,available,,,medium,low,14,,,,
 6a1d47df-6039-4ac5-bb39-d8872b819588,aramaic.boston,available,23.49,23.49,low,low,7,namesilo,,,06/08/2026 12:13
 17a452bd-8976-4951-9cb5-0a1abf2a72ed,abovenamed.boston,available,23.49,23.49,medium,low,11,namesilo,,,
 a434b4e8-de6f-404f-8042-4ba65dcaf7d7,wipeup.boston,available,30.98,,high,low,7,namecheap,,,
-dd23d2ff-9430-4e7d-b943-324aecb727f0,dessert.boston,premium,96,21.24,medium,low,7,namesilo,,,15/09/2026 06:13
+dd23d2ff-9430-4e7d-b943-324aecb727f0,dessert.boston,premium,96,21.24,medium,low,7,namesilo,,,19/09/2026 09:08
 d44afb3e-037a-4c7d-9205-a94678610f60,intelligence.boston,available,30.98,,high,low,12,namecheap,,,
 9a68b023-20b7-4184-82cf-537eb00e70d2,herbalmedicine.boston,available,23.49,23.49,high,low,15,namesilo,,,
 ce0fcf90-4bb4-4b52-a00e-dab977d46098,longhaired.boston,available,30.98,,low,low,11,namecheap,,,
 d4ab18ab-cf60-46ae-961c-b34565afe3f8,identifier.boston,available,23.49,23.49,high,low,10,namesilo,,,
 32cdbb53-d91c-4999-8c70-ae7fb9efe68b,apoplectic.boston,available,23.49,23.49,low,low,10,namesilo,,,06/08/2026 03:29
 3a852ca7-ced2-440b-afac-69812a4daeef,astomatal.boston,available,23.49,23.49,low,low,9,namesilo,,,07/08/2026 09:41
-47006119-2d01-4d21-b8d3-2f4f3ad81625,learning.boston,available,,,high,low,8,,,,
 9552ba2e-3549-4678-997f-4b695e37dc31,moneymarketfund.boston,available,23.49,23.49,high,low,17,namesilo,,,
-80394b15-a690-4550-b21a-665f00802dd1,fixitagainTony.boston,available,23.49,23.49,medium,low,17,namesilo,,,
+80394b15-a690-4550-b21a-665f00802dd1,fixitagaintony.boston,available,23.49,23.49,medium,low,17,namesilo,,,
 ce95d3b9-10bb-48c0-bbce-3ec531306886,standing.boston,available,23.49,23.49,medium,low,8,namesilo,,,
 21d9443f-776f-4394-a76e-72e5d10c9cb8,thirtysix.boston,available,23.49,23.49,low,low,10,namesilo,,,
 24ae0870-6107-43e2-8c07-b63bd4a3d0a2,leaving.boston,available,23.49,23.49,high,low,7,namesilo,,,
 bd1a0d9c-57e7-4f4c-81d6-8c37de8006f4,khakis.boston,available,23.49,23.49,high,low,6,namesilo,,,
 01f7cd59-a3d6-48b8-8adb-ba53ac2d3d05,speedup.boston,available,23.49,23.49,medium,low,8,namesilo,,,
-9d0dc8eb-25ba-44b3-9f14-d86690329fc9,Nicki.boston,available,23.49,23.49,medium,low,5,namesilo,,,
+9d0dc8eb-25ba-44b3-9f14-d86690329fc9,nicki.boston,available,23.49,23.49,medium,low,5,namesilo,,,
 35e5e818-6faf-4b3a-9feb-7c52392f0f9b,sip.boston,premium,47.2,21.24,medium,low,3,namesilo,,,
 d916ee4e-29ce-4682-8b58-8e0a72bbb9de,augratin.boston,available,23.49,23.49,high,low,9,namesilo,,,
-1b717227-5cfb-49fb-9f14-12e93cfde755,vast.boston,available,23.49,23.49,medium,low,4,namesilo,,,15/09/2026 03:15
+1b717227-5cfb-49fb-9f14-12e93cfde755,vast.boston,available,23.49,23.49,medium,low,4,namesilo,,,19/09/2026 06:11
 a234f5ad-508d-471f-9043-1c05e61d9d70,basket.boston,available,23.49,23.49,high,low,6,namesilo,,,
-e44c9f9b-6503-4377-ac0a-64408ba2538d,Audi.boston,premium,50,,high,high,4,name.com,,,
+e44c9f9b-6503-4377-ac0a-64408ba2538d,audi.boston,premium,50,,high,high,4,name.com,,,
 ba0cb38c-757c-47a2-a447-dd8099e596ca,picked.boston,available,23.49,23.49,high,low,6,namesilo,,,
-d297dc06-d51f-4b82-9439-2f202f090d3c,spread.boston,available,19.99,27.99,high,low,6,name.com,,,
+d297dc06-d51f-4b82-9439-2f202f090d3c,spread.boston,available,24.98,30.98,medium,low,6,namecheap,,,19/09/2026 12:51
 2725ec92-6d45-46a1-a0d0-53d7a7b58283,characteristic.boston,available,30.98,,high,low,14,namecheap,,,
 f3f7732b-f563-44e0-9573-77c4b1ee70b5,atmost.boston,available,23.49,23.49,medium,low,7,namesilo,,,
 400f8808-68d8-471f-831a-a08ee2f1adf8,abyssal.boston,available,23.49,23.49,low,low,7,namesilo,,,
-999b387f-66fd-444f-a971-81e26372e269,savings.boston,premium,96,21.24,high,low,7,namesilo,,,
-aee7606a-a9d1-40f8-8f34-583cde176fbe,Oxfam.boston,available,23.49,23.49,high,low,5,namesilo,,,
+999b387f-66fd-444f-a971-81e26372e269,savings.boston,premium,96,21.24,medium,low,7,namesilo,,,19/09/2026 13:58
+aee7606a-a9d1-40f8-8f34-583cde176fbe,oxfam.boston,available,23.49,23.49,high,low,5,namesilo,,,
 f4c35d6f-dd71-4648-86c7-ab1b2f08a58c,arguseyed.boston,available,23.49,23.49,low,low,10,namesilo,,,06/08/2026 18:38
 5d69304e-063f-4a8f-a3c1-2acc3eb28b16,saddle.boston,available,23.49,23.49,high,low,6,namesilo,,,
 963f72d2-74ff-4fb0-bdf8-90b9acad2850,disclosed.boston,available,19.99,27.99,medium,low,9,name.com,,,
@@ -90,16 +89,16 @@ f8024b4a-f025-4e30-b029-d9916458bc86,dozen.boston,available,19.99,27.99,high,low
 d3db7c26-061b-4f8c-a7eb-d3f2a397add2,incompanywith.boston,available,23.49,23.49,medium,low,15,namesilo,,,
 cda9feec-1401-417b-8637-0229fa6252b9,pink.boston,premium,500,,high,low,4,name.com,,,
 63d33b56-5726-46c2-8186-5ef56b6be42c,abnormal.boston,available,19.99,27.99,high,low,8,name.com,,,
-f11aaf14-1f6d-4884-90e2-9d04cf3857d6,WestEuropean.boston,available,23.49,23.49,low,low,13,namesilo,,,
+f11aaf14-1f6d-4884-90e2-9d04cf3857d6,westeuropean.boston,available,23.49,23.49,low,low,13,namesilo,,,
 cd355747-6f8c-4931-ae5e-d8f080ff146b,hair.boston,premium,242,21.24,high,low,4,namesilo,,,
 ccf2850b-5300-4f6e-8f35-2322c9ae5a0e,chase.boston,available,,,medium,low,5,,,,
 00220164-47ee-474e-9026-c44c7d5a80dc,digitalwatch.boston,available,23.49,23.49,high,low,13,namesilo,,,
-612795a5-de5c-4e25-8daf-92a1f7593da8,Streets.boston,available,,,high,low,7,,,,
+612795a5-de5c-4e25-8daf-92a1f7593da8,streets.boston,available,,,high,low,7,,,,
 8d301f68-749f-4d70-a89c-d879c47fb9d1,wasted.boston,available,30.98,,medium,low,6,namecheap,,,
 533805fc-2874-4240-ac7f-39ff638112d7,alienated.boston,available,23.49,23.49,low,low,9,namesilo,,,
 6074d915-d2b5-4341-b955-053efac76702,acronym.boston,available,23.49,23.49,high,low,7,namesilo,,,
 c4e4ab1b-8008-4472-8db6-f56c9e4c05c6,winterblues.boston,available,23.49,23.49,low,low,12,namesilo,,,
-4f42af37-14dc-4b77-a923-5fa8d8500593,Sundayroast.boston,available,23.49,23.49,high,low,12,namesilo,,,
+4f42af37-14dc-4b77-a923-5fa8d8500593,sundayroast.boston,available,23.49,23.49,high,low,12,namesilo,,,
 b306844f-9270-420b-a410-bbd07b695eb3,fork.boston,available,23.49,23.49,high,low,4,namesilo,,,
 b778db65-f166-4df0-8b8f-eca9603ec29d,elusive.boston,available,23.49,23.49,low,low,7,namesilo,,,08/08/2026 08:07
 67eacf04-2c18-4c87-bad0-829a96d77829,round.boston,available,23.49,23.49,low,low,5,namesilo,,,09/08/2026 05:09
@@ -130,7 +129,7 @@ b589b863-7f29-4320-93bc-c7b6011516f1,sunlight.boston,available,30.98,,high,low,8
 cc6a07f7-7941-4df7-b1dd-0e03c1af17b6,gettothepoint.boston,available,23.49,23.49,high,low,16,namesilo,,,
 82064a79-2b36-41e9-98b5-cbc4d7d60c5b,enhance.boston,available,,,high,low,7,,,,
 73e174af-bfea-4b40-a43f-06702729e913,spiceup.boston,available,23.49,23.49,high,low,8,namesilo,,,
-4b0e2197-6da2-4fc0-947b-537c0a725218,Iaskyou.boston,available,23.49,23.49,medium,low,9,namesilo,,,
+4b0e2197-6da2-4fc0-947b-537c0a725218,iaskyou.boston,available,23.49,23.49,medium,low,9,namesilo,,,
 8441fffb-0bae-4508-b0c5-adde195245bd,salt.boston,available,19.99,,high,medium,4,name.com,,,
 44721ec7-e8cd-4969-b483-3b3166dbd6b5,visitor.boston,available,23.49,23.49,high,low,7,namesilo,,,
 e19628cb-a5b7-4ca0-9fc9-2a40cec3d1ff,skilful.boston,available,19.99,27.99,high,low,7,name.com,,,
@@ -176,7 +175,7 @@ f0577898-64c9-4ebe-b9cf-5538698056bf,dull.boston,available,23.49,23.49,medium,lo
 9567bed7-97aa-4227-8287-2ce022a76513,niner.boston,available,23.49,23.49,low,low,5,namesilo,,,
 a3187f4f-772c-4b7a-84fc-ad013e06adfc,flexing.boston,available,30.98,,high,low,7,namecheap,,,
 b7df8dd1-c40f-4074-8a0e-ce3bd004c696,nuclear.boston,available,23.49,23.49,high,low,7,namesilo,,,
-967955df-c5e9-4acd-8650-7634682d9897,Phil.boston,premium,96,21.24,high,medium,4,namesilo,,,
+967955df-c5e9-4acd-8650-7634682d9897,phil.boston,premium,96,21.24,high,medium,4,namesilo,,,
 1a215c66-4f06-4aad-bc4c-84908a4f161e,nipping.boston,available,23.49,23.49,low,low,7,namesilo,,,08/08/2026 16:46
 0e625ee5-f29e-4e95-a4f5-1a31b5546e75,criticize.boston,available,23.49,23.49,medium,low,9,namesilo,,,
 3c0cf161-63ff-47f0-9141-e75424cdca3d,broaden.boston,available,23.49,23.49,medium,low,7,namesilo,,,
@@ -190,7 +189,7 @@ f7781c16-688c-4024-882a-5e716a8c35c6,militant.boston,available,24.98,30.98,low,l
 0d1992b8-d9a0-4e51-bcec-5a42a7163a53,aneroid.boston,available,23.49,23.49,low,low,7,namesilo,,,
 165316d4-84e2-45a5-b5cc-68f1ad75bc26,smartphone.boston,available,23.49,23.49,high,low,10,namesilo,,,
 e267abb5-9b85-4fdc-bd25-080a3876a45c,lucrative.boston,available,23.49,23.49,high,low,9,namesilo,,,
-f3db07c6-bbba-498c-beeb-2a356932b242,sweetFA.boston,available,23.49,23.49,low,low,8,namesilo,,,
+f3db07c6-bbba-498c-beeb-2a356932b242,sweetfa.boston,available,23.49,23.49,low,low,8,namesilo,,,
 52040617-9d8a-4d60-b458-5e5a8ad05156,action.boston,available,,,high,low,6,,,,
 387d83db-022c-4d7e-8b1b-b4760e28513b,modernday.boston,available,19.99,27.99,high,low,10,name.com,,,
 03a54eeb-4d68-4df7-b967-5cd7cc63f20f,play.boston,premium,500,,high,medium,4,name.com,,,
@@ -226,7 +225,7 @@ b504b783-1c18-4a8a-9a6b-48e6edb5e10a,briefingnote.boston,available,30.98,,high,l
 3df52cf6-3b89-40fc-a0fd-9a8f837b2d64,robotic.boston,available,23.49,23.49,high,low,7,namesilo,,,
 696a73a5-cc5a-4892-8ddc-fdff871d1423,things.boston,available,30.98,,high,low,6,namecheap,,,
 b15eaff3-b17c-4c58-9172-4a3adc3f1a05,earlyadopter.boston,available,23.49,23.49,high,low,13,namesilo,,,
-8a58ea90-3238-44ad-a294-1ea608fed170,Dicks.boston,premium,47.2,21.24,medium,low,5,namesilo,,,
+8a58ea90-3238-44ad-a294-1ea608fed170,dicks.boston,premium,47.2,21.24,medium,low,5,namesilo,,,
 bddb53fa-735f-4da1-b0dd-f342f32bcf46,discover.boston,available,,,medium,low,8,,,,
 2643824c-f767-4ad4-a91c-1626422eb62c,garret.boston,available,23.49,23.49,low,low,6,namesilo,,,07/08/2026 15:51
 678b04cf-cc80-463e-9a64-8cf561a5a198,treehugger.boston,available,30.98,,medium,low,11,namecheap,,,
@@ -235,7 +234,7 @@ bddb53fa-735f-4da1-b0dd-f342f32bcf46,discover.boston,available,,,medium,low,8,,,
 6e390f84-38d7-4763-aa68-293ceee79a7e,barbate.boston,available,23.49,23.49,low,low,7,namesilo,,,08/08/2026 16:10
 7afb2a64-09c7-4916-aeb8-282f42a6055e,adios.boston,available,23.49,23.49,high,low,5,namesilo,,,
 2fd91334-38fb-4af9-a5e1-e72648ef8546,lookback.boston,available,23.49,23.49,high,low,9,namesilo,,,
-ff12ea36-13a2-43ba-b196-cb433bbe151d,TexasCity.boston,available,23.49,23.49,medium,low,10,namesilo,,,
+ff12ea36-13a2-43ba-b196-cb433bbe151d,texascity.boston,available,23.49,23.49,medium,low,10,namesilo,,,
 010c807b-09ac-487c-bde8-3d209a8ef14e,globular.boston,available,23.49,23.49,low,low,8,namesilo,,,08/08/2026 10:06
 c4f550ae-9b4a-467b-81ae-f641143b403e,informationengine.boston,available,23.49,23.49,high,low,18,namesilo,,,
 aa7f80b6-4a10-4350-9e18-ac0246016a16,givethanks.boston,available,23.49,23.49,medium,low,11,namesilo,,,
@@ -261,7 +260,7 @@ f2cfebfc-ed4d-425b-867c-be9acfee0794,manualwork.boston,available,23.49,23.49,med
 b5b7b8b5-f1b4-43c4-9d92-cc553dbc84be,adamant.boston,available,23.49,23.49,low,low,7,namesilo,,,
 79e1d0e5-0d1c-4855-bb0e-93ed3c586be5,packed.boston,available,23.49,23.49,medium,low,6,namesilo,,,
 510ab339-d83c-4a1f-b258-6bd9dd55dd3a,cxxxv.boston,available,23.49,23.49,low,low,5,namesilo,,,
-35280ac2-c421-42c3-98c6-b1bcc032fcf2,Nokia.boston,available,,,high,low,5,,,,
+35280ac2-c421-42c3-98c6-b1bcc032fcf2,nokia.boston,available,,,high,low,5,,,,
 d0918cb2-8e69-446a-94ed-a57986c06cce,turncoat.boston,available,23.49,23.49,low,low,8,namesilo,,,06/08/2026 03:49
 957ab4fa-7b96-4f4e-a18f-d263ee4fd096,registeredtrademark.boston,available,23.49,23.49,medium,low,20,namesilo,,,
 9e90c7ac-7043-4358-9060-77dfd656660b,noncitizen.boston,available,23.49,23.49,low,low,10,namesilo,,,
@@ -284,7 +283,7 @@ afb65df1-62a5-4490-ba0f-b5f6ef3077c6,rep.boston,premium,47.2,21.24,medium,low,3,
 c913d7cc-4e8c-4f75-88aa-0b2537687afd,timer.boston,available,30.98,,high,low,5,namecheap,,,
 5a42775c-d2de-428e-8a8a-f4a05d30b7ce,theirs.boston,available,30.98,,low,low,6,namecheap,,,
 abc784a2-cda8-4a95-abae-cbf621a8039d,forthat.boston,available,23.49,23.49,medium,low,8,namesilo,,,
-67957124-8331-49fb-8e7f-d523d4fd1e01,NewYorkState.boston,available,23.49,23.49,medium,low,14,namesilo,,,
+67957124-8331-49fb-8e7f-d523d4fd1e01,newyorkstate.boston,available,23.49,23.49,medium,low,14,namesilo,,,
 80444ff2-bc8e-4f7b-88c4-505e9640aee1,potential.boston,available,23.49,23.49,high,low,9,namesilo,,,
 c09b8de9-ad6a-46a4-8e10-f29fe38cd902,daddy.boston,available,23.49,23.49,high,low,5,namesilo,,,
 79f833e8-b131-45a4-8c4b-aea9f7cdd429,bigben.boston,available,23.49,23.49,high,low,7,namesilo,,,
@@ -310,7 +309,7 @@ e1e71b94-8ad7-42bb-a69c-b3dbe5450ae5,serveup.boston,available,23.49,23.49,high,l
 e79a8be9-fd9c-4a2f-b851-e4e8ccd0b450,unconvincing.boston,available,23.49,23.49,medium,low,12,namesilo,,,
 9dfdfb6f-351a-4d8e-b13c-3d932980ad32,aphanitic.boston,available,23.49,23.49,low,low,9,namesilo,,,05/08/2026 23:01
 746c1bbe-53d7-435a-bd03-47a1df740221,twine.boston,available,23.49,23.49,medium,low,5,namesilo,,,
-df899fcf-43fd-4a18-b7c3-0f93ceac75c0,Ropes.boston,available,23.49,23.49,medium,low,5,namesilo,,,
+df899fcf-43fd-4a18-b7c3-0f93ceac75c0,ropes.boston,available,23.49,23.49,medium,low,5,namesilo,,,
 168e929e-5ad0-44ba-9966-54e24a28c259,inexpert.boston,available,23.49,23.49,low,low,8,namesilo,,,
 05bf8434-ec33-47a5-85eb-cae2df8ae788,thanksfornothing.boston,available,23.49,23.49,medium,low,18,namesilo,,,
 8451a7d6-ab5d-4608-9c85-aceb8173141d,consumer.boston,available,,,high,low,8,,,,
@@ -321,7 +320,7 @@ bfdda9c7-7b4d-4c8b-970d-47250f6e72dc,carnal.boston,available,23.49,23.49,low,low
 409af247-a7c4-48dc-96fc-518f1eb0a504,autarkic.boston,available,23.49,23.49,low,low,8,namesilo,,,07/08/2026 18:47
 4f26e919-0522-4399-b550-d06c9e5819f2,prenatal.boston,premium,100,,high,low,8,name.com,,,
 9e3d2482-9a40-4020-b646-f143c0bb5bd3,husky.boston,available,23.49,23.49,medium,medium,5,namesilo,,,09/08/2026 07:59
-9cf71cfb-8bc5-430d-824e-0ea46d82398f,success.boston,resell,,,high,low,7,"GoDaddy.com, LLC",29/07/2024 21:56,29/07/2026 21:56,
+9cf71cfb-8bc5-430d-824e-0ea46d82398f,success.boston,resell,,,high,low,7,"GoDaddy.com, LLC",29/07/2024 21:56,29/07/2027 21:56,20/09/2026 04:06
 a1f67205-5d2b-49c5-83bf-95e5cd3c225a,anglican.boston,available,23.49,23.49,low,low,8,namesilo,,,
 650bf2a1-d420-48f0-aaf7-4daab6ca3e4c,release.boston,available,23.49,23.49,high,low,7,namesilo,,,
 7f5a7ed2-7ae7-41cd-9d7a-b77247a7030a,propagated.boston,available,23.49,23.49,low,low,10,namesilo,,,
@@ -388,7 +387,7 @@ d2999afa-f0e4-4a1b-b013-785501fcbd55,muffincup.boston,available,23.49,23.49,high
 1354fcd4-c0b6-4878-bb43-f332206cbd0d,tossaway.boston,available,23.49,23.49,medium,low,9,namesilo,,,
 81fc15df-2176-41fc-96b7-c43644984f77,extraordinary.boston,available,23.49,23.49,high,low,13,namesilo,,,
 8a589855-c76f-46b8-8883-50bca1aa37b6,xlvi.boston,available,23.49,23.49,low,low,4,namesilo,,,
-5011f601-7463-45a9-9dff-1b339eacf1e4,VaticanCity.boston,available,23.49,23.49,low,low,12,namesilo,,,
+5011f601-7463-45a9-9dff-1b339eacf1e4,vaticancity.boston,available,23.49,23.49,low,low,12,namesilo,,,
 641200c8-307e-4918-b3af-24dfe535e331,inthat.boston,available,23.49,23.49,medium,low,7,namesilo,,,
 751e8770-8ead-4921-8c30-65174b590135,chore.boston,available,23.49,23.49,high,low,5,namesilo,,,
 c33fb31d-e1c5-498a-91c3-b01307f965d8,strategy.boston,available,23.49,23.49,high,medium,8,namesilo,,,
@@ -401,7 +400,7 @@ d7c9965f-ade8-46a4-84ef-9b2212251266,eightyone.boston,available,24.98,30.98,low,
 48f945cf-a955-47e2-a447-81fbf7949c7f,jimmy.boston,premium,96,21.24,high,low,5,namesilo,,,
 8b8dbd36-aa48-4299-9a4c-e18b8be02c87,glass.boston,premium,96,21.24,medium,low,5,namesilo,,,
 82962721-7a45-4b14-a78d-7db5c28a09ee,extempore.boston,available,24.98,30.98,low,low,9,namecheap,,,
-d92ec2d1-f9bd-42fb-a68b-cbaab90844ad,idiot.boston,available,23.49,23.49,low,low,5,namesilo,,,15/09/2026 00:52
+d92ec2d1-f9bd-42fb-a68b-cbaab90844ad,idiot.boston,available,23.49,23.49,low,low,5,namesilo,,,19/09/2026 09:51
 04382bde-32dd-44b4-b446-f5e5dfcf2aec,superman.boston,available,23.49,23.49,high,low,8,namesilo,,,
 1c494566-77f7-4297-9fb1-d9a020b872b4,baseborn.boston,available,23.49,23.49,low,low,8,namesilo,,,08/08/2026 21:34
 c16cdd5c-fe7c-4b4c-a03a-6c3cf533b049,articled.boston,available,23.49,23.49,low,low,8,namesilo,,,06/08/2026 08:28
@@ -409,9 +408,9 @@ c16cdd5c-fe7c-4b4c-a03a-6c3cf533b049,articled.boston,available,23.49,23.49,low,l
 a40dcca2-4f40-441c-a5a4-75bd38f4b047,transitions.boston,available,23.49,23.49,low,low,11,namesilo,,,
 5ef9e0ee-e304-418e-9d89-7386e11c074d,memorise.boston,available,23.49,23.49,high,low,8,namesilo,,,
 adae8ff8-33f2-4c9a-a9cf-8b484a792746,least.boston,available,23.49,23.49,high,low,5,namesilo,,,
-5c235a4f-d56d-43a3-a404-c905d0e0946e,OurFather.boston,available,23.49,23.49,low,low,10,namesilo,,,
+5c235a4f-d56d-43a3-a404-c905d0e0946e,ourfather.boston,available,23.49,23.49,low,low,10,namesilo,,,
 e1c8473b-ed23-407d-bab3-0f506b2a04b4,boss.boston,available,,,high,high,4,,,,
-db62b203-dde8-43de-a59d-4fb7b92aae1e,NewWorld.boston,available,30.98,,medium,low,9,namecheap,,,
+db62b203-dde8-43de-a59d-4fb7b92aae1e,newworld.boston,available,30.98,,medium,low,9,namecheap,,,
 8810bda9-885b-43c1-9b84-7b2bf6a7946e,bringback.boston,available,23.49,23.49,medium,low,10,namesilo,,,
 deaa58e5-06eb-4e69-b384-acce51a41d99,workethic.boston,available,23.49,23.49,high,low,10,namesilo,,,
 bb79266a-449b-4056-a24b-6f1f60bd03e2,bantu.boston,available,23.49,23.49,low,low,5,namesilo,,,08/08/2026 14:50
@@ -430,7 +429,7 @@ ce41cdc1-9cee-4bc3-a3e0-ca931d0376d7,pungent.boston,available,24.98,30.98,low,lo
 b9e03aad-9716-4bd7-b6f6-4de3633b4a86,clxxx.boston,available,23.49,23.49,low,low,5,namesilo,,,
 c57e928c-ec80-4b34-b2f1-b435d0902fb0,asterismal.boston,available,23.49,23.49,low,low,10,namesilo,,,07/08/2026 09:01
 1c61cca7-c7ee-4e6d-8d9b-13908ac6cf39,roast.boston,available,30.98,,high,low,5,namecheap,,,
-3dd1c121-3c3e-4afd-8a19-5bf74854b88c,Romanfoot.boston,available,30.98,,low,low,10,namecheap,,,
+3dd1c121-3c3e-4afd-8a19-5bf74854b88c,romanfoot.boston,available,30.98,,low,low,10,namecheap,,,
 acc9c95a-a07a-49a8-9464-791e83bfd74d,silvery.boston,available,24.98,30.98,low,low,7,namecheap,,,06/08/2026 17:56
 d735b6fa-7e84-48b1-9472-7451824e4a92,nailclipper.boston,available,23.49,23.49,medium,low,12,namesilo,,,
 e3a70d42-00e8-446f-815a-5b90f89f6c2d,hammer.boston,available,23.49,23.49,high,low,6,namesilo,,,
@@ -438,14 +437,14 @@ b02f9301-b1a5-4338-bc6d-857b0d90c0c4,newsmedia.boston,available,23.49,23.49,high
 e1052150-d3e2-42b5-b8f8-41f377bf8f76,digits.boston,available,30.98,,high,low,6,namecheap,,,
 924df957-cae2-48d0-bf7c-f5d6a74fdb86,composed.boston,available,19.99,27.99,high,low,8,name.com,,,
 5e4b318e-aef9-4bf4-ac30-501f14f5bc68,panic.boston,available,23.49,23.49,medium,low,5,namesilo,,,
-bb8aca6e-4f96-4873-a703-c8ae5a5406a4,working.boston,available,23.49,23.49,medium,low,7,namesilo,,,14/09/2026 03:37
+bb8aca6e-4f96-4873-a703-c8ae5a5406a4,working.boston,available,23.49,23.49,medium,low,7,namesilo,,,19/09/2026 07:09
 6b8ecb7a-52b4-464f-a037-4ed2c7b2dbfd,aperiodic.boston,available,23.49,23.49,low,low,9,namesilo,,,05/08/2026 22:30
 bb61f680-efbf-44ef-8713-530cb21baa69,employ.boston,available,,,high,low,6,,,,
 70dafe69-a6e5-4871-b7a6-dc4798865223,vexatious.boston,available,23.49,23.49,low,low,9,namesilo,,,
 a04bd686-89a2-4976-9854-9abe787fa0e9,dislike.boston,available,23.49,23.49,high,low,7,namesilo,,,
 0df50479-96e9-4370-a56d-ac2e74f6f16c,reminder.boston,available,23.49,23.49,medium,low,8,namesilo,,,
-5d7a0e93-1147-4eb3-b020-72f3de42cf95,Ionlyworkhere.boston,available,23.49,23.49,medium,low,16,namesilo,,,
-b7cf925f-403b-4bce-9fdd-d678cf33af47,weight.boston,premium,47.2,21.24,low,low,6,namesilo,,,15/09/2026 06:16
+5d7a0e93-1147-4eb3-b020-72f3de42cf95,ionlyworkhere.boston,available,23.49,23.49,medium,low,16,namesilo,,,
+b7cf925f-403b-4bce-9fdd-d678cf33af47,weight.boston,premium,52,23.4,low,low,6,namecheap,,,19/09/2026 19:07
 c110a111-2fac-40e1-a7f2-9ef74f942936,exhaustion.boston,available,30.98,,medium,low,10,namecheap,,,
 438177e6-f4df-456a-b846-ad9ef201597d,orbicular.boston,available,23.49,23.49,low,low,9,namesilo,,,08/08/2026 10:11
 883c60f0-6e5f-4ebd-95da-a9a7768f5374,queen.boston,available,23.49,23.49,high,low,5,namesilo,,,
@@ -465,7 +464,7 @@ e07e8083-603c-44a0-aa38-e6e4a376bad8,whiskered.boston,available,23.49,23.49,low,
 d3691ac4-328a-40ef-b65a-08eaafee4aa1,start.boston,available,,,high,low,5,,,,
 450e6f16-37a3-4da2-a423-c2012e46d2aa,captive.boston,available,23.49,23.49,low,low,7,namesilo,,,
 16e8b3e0-0b9a-49da-a07d-4ebe68f12540,abounding.boston,available,23.49,23.49,low,low,9,namesilo,,,
-8967cd62-6910-47be-852e-42e11635def7,process.boston,available,23.49,23.49,medium,low,7,namesilo,,,15/09/2026 03:30
+8967cd62-6910-47be-852e-42e11635def7,process.boston,available,24.98,30.98,medium,low,7,namecheap,,,19/09/2026 12:26
 36685f96-440a-4855-8686-69e6a910968e,ring.boston,premium,500,,medium,low,4,name.com,,,
 80d3c3fd-96c9-487b-97c1-414668c94b01,ifthat.boston,available,23.49,23.49,medium,low,7,namesilo,,,
 2d53dbf2-cd0d-495c-9fe8-1fe80aa38419,barshaped.boston,available,23.49,23.49,low,low,10,namesilo,,,08/08/2026 15:16
@@ -492,9 +491,8 @@ db43cb41-f5f0-45fe-aba8-edab96fece2f,asthenic.boston,available,23.49,23.49,low,l
 77dfe963-f811-462f-843c-2f4fbd048feb,doublecheck.boston,available,23.49,23.49,high,low,12,namesilo,,,
 63b1302a-6265-4a16-bffa-a92e0887d4e8,treat.boston,available,19.99,27.99,high,low,5,name.com,,,
 7e395ac2-f388-4c2f-ac35-2569c0c15424,dave.boston,premium,96,21.24,high,low,4,namesilo,,,
-b90ed2e5-2875-4814-a3d9-1d1c79b925ae,Schneider.boston,available,23.49,23.49,medium,low,9,namesilo,,,
+b90ed2e5-2875-4814-a3d9-1d1c79b925ae,schneider.boston,available,23.49,23.49,medium,low,9,namesilo,,,
 7aa0d90b-3a5c-42bd-9e93-5847b6a4f1d6,belated.boston,available,23.49,23.49,low,low,7,namesilo,,,09/08/2026 12:37
-5078f04e-fb64-474c-aef5-e14e25145828,entrepreneur.boston,available,,,high,medium,12,,,,
 96468ac2-101a-4f24-847d-c1f70de427c5,givebirth.boston,available,23.49,23.49,high,low,10,namesilo,,,
 dd458719-fc74-4165-ba21-e787e6a9684d,razor.boston,available,23.49,23.49,medium,low,5,namesilo,,,
 e9d05b79-e6cb-459c-9986-e4395d65581e,pollen.boston,available,23.49,23.49,high,low,6,namesilo,,,
@@ -535,7 +533,7 @@ fec697f5-f338-4b8d-967c-1567cb05ed3f,fortyeight.boston,available,23.49,23.49,hig
 281466e1-6ffb-4343-8bcb-3e0424fd22fc,wordplay.boston,available,23.49,23.49,medium,low,9,namesilo,,,
 006b8fd7-4733-4a07-949e-5b6d51c03358,armada.boston,available,23.49,23.49,medium,low,6,namesilo,,,
 68bd1bfe-a543-4534-bc6a-6543f2a0eafc,accessary.boston,available,23.49,23.49,low,low,9,namesilo,,,
-10249817-d415-4c24-b692-9421d2a11067,licensed.boston,available,23.49,23.49,medium,low,8,namesilo,,,14/09/2026 03:12
+10249817-d415-4c24-b692-9421d2a11067,licensed.boston,available,23.49,23.49,low,low,8,namesilo,,,19/09/2026 16:56
 6d43c5c8-a82e-4c05-813a-d73f744bec69,shrimp.boston,premium,100,,high,low,6,name.com,,,
 00f46a7b-bc6a-4eb9-8a0a-8476fe1cc6ba,discuss.boston,available,,,high,low,7,,,,
 db06153a-2613-45db-9377-aa6b22ef7bc3,ampullary.boston,available,23.49,23.49,low,low,9,namesilo,,,
@@ -554,7 +552,7 @@ d8944e1c-886e-4645-bd74-f07f0c14a9d2,myapology.boston,available,23.49,23.49,high
 beb32da8-fceb-423f-afd5-04b4bd7f6b37,getwiththetimes.boston,available,30.98,,high,low,18,namecheap,,,
 3cef910c-4187-4e8e-ad11-0c28825bf0af,cherryontop.boston,available,23.49,23.49,high,low,13,namesilo,,,
 e8e9ed7d-ed97-4526-a2a9-861cbce7175a,ifallen.boston,available,23.49,23.49,medium,low,8,namesilo,,,
-1730ba0f-735c-492c-a8ee-0219cc0eeffc,Dives.boston,available,23.49,23.49,medium,low,5,namesilo,,,
+1730ba0f-735c-492c-a8ee-0219cc0eeffc,dives.boston,available,23.49,23.49,medium,low,5,namesilo,,,
 d2397c1c-9109-4f5b-af7d-23e2dd1c6f0f,xci.boston,premium,50,30.99,low,low,3,name.com,,,
 33070f8e-e140-464f-9bd2-081d98eb0719,beer.boston,premium,2500,,high,low,4,name.com,,,
 dde1173f-27a3-4793-ae67-a0b116e024bf,cameroon.boston,available,,,high,low,8,,,,
@@ -576,7 +574,7 @@ a57549cf-f305-48cc-80f8-f31a3c06e282,valuable.boston,available,23.49,23.49,high,
 1da86032-e0ec-4e79-9524-471118a5e250,decay.boston,available,30.98,,high,low,5,namecheap,,,
 cb8b2c15-5879-4664-9617-7850d649bb78,therealityis.boston,available,23.49,23.49,low,low,14,namesilo,,,
 ee5f138a-1361-4c64-bf98-9f9768c8ff0e,bald.boston,premium,47.2,21.24,low,low,4,namesilo,,,08/08/2026 09:16
-67719989-8fb6-4ef3-bf79-7539db5b29a3,Shrek.boston,available,30.98,,high,medium,5,namecheap,,,
+67719989-8fb6-4ef3-bf79-7539db5b29a3,shrek.boston,available,30.98,,high,medium,5,namecheap,,,
 42da921a-9327-4ee8-87d2-d7b5adc2a20c,tons.boston,available,30.98,,high,low,4,namecheap,,,
 0e9fa272-1f2a-4c9c-b40c-d6b63c44eaaf,munich.boston,available,30.98,,medium,low,6,namecheap,,,
 de64bb12-94eb-4fd5-963f-309a73c4066d,wintersun.boston,available,23.49,23.49,medium,low,10,namesilo,,,
@@ -624,7 +622,7 @@ e016612a-9629-44a4-b51d-4e956729ddb3,asiatic.boston,available,23.49,23.49,low,lo
 208c29bf-df6a-4b97-aaec-0b7cdd985f9d,expedition.boston,available,23.49,23.49,high,low,10,namesilo,,,
 0b7acf36-ca36-4dca-8cf8-04b7caf71b6c,befuddled.boston,available,23.49,23.49,low,low,9,namesilo,,,07/08/2026 11:41
 2d0779f2-7b01-4949-b75f-1ebc2d598218,flourishing.boston,available,30.98,,high,low,11,namecheap,,,
-b7381f81-2b76-43c4-ad7b-9d3ce5dc4ea6,Philips.boston,available,23.49,23.49,high,medium,7,namesilo,,,
+b7381f81-2b76-43c4-ad7b-9d3ce5dc4ea6,philips.boston,available,23.49,23.49,high,medium,7,namesilo,,,
 1f133275-b0af-4b23-bf87-4216627d963d,howl.boston,available,23.49,23.49,high,low,4,namesilo,,,
 83d89f71-e839-4cd6-8bf5-662f5459983e,marihuana.boston,available,23.49,23.49,medium,low,9,namesilo,,,
 6f050d44-d46a-4332-9b75-50b05f2b48c2,adscript.boston,available,23.49,23.49,low,low,8,namesilo,,,
@@ -649,7 +647,7 @@ a4ef0e31-0aab-4c04-9620-8cee87e5bee3,salary.boston,resell,,,high,low,6,"GoDaddy.
 d59402c9-016d-4135-9b17-0b81f254f92a,textbook.boston,available,23.49,23.49,high,low,8,namesilo,,,
 f7c025b7-d706-48a1-9b79-08c031aa15eb,tightenup.boston,available,23.49,23.49,medium,low,10,namesilo,,,
 8845878c-7605-43c0-bb1e-e8ef427cbeb0,pool.boston,premium,242,21.24,medium,low,4,namesilo,,,
-729ae390-50f8-4d11-a32a-26524eb39f78,advised.boston,available,23.49,23.49,low,low,7,namesilo,,,14/09/2026 02:01
+729ae390-50f8-4d11-a32a-26524eb39f78,advised.boston,available,23.49,23.49,low,low,7,namesilo,,,19/09/2026 08:43
 7808e408-fc6e-4794-84e0-e90864813d9c,youknowit.boston,available,23.49,23.49,high,low,11,namesilo,,,
 83abcecc-acb8-4cae-862a-66515c442629,azo.boston,premium,47.2,21.24,low,low,3,namesilo,,,08/08/2026 02:17
 3b0c502d-49ae-4ad7-b6e0-ae9521b46940,counter.boston,available,30.98,,high,low,7,namecheap,,,
@@ -703,7 +701,7 @@ db4077a2-e1c9-4208-b002-3913fed33e1d,payattention.boston,available,23.49,23.49,l
 863518d1-d38c-4f28-83ae-da5ae44cf52b,doyoumind.boston,available,30.98,,medium,low,11,namecheap,,,
 6028bab0-43b2-4a6d-a3ec-105292f84df9,lying.boston,available,23.49,23.49,high,low,5,namesilo,,,
 1734bcbd-bc43-4e6f-b229-8ae0271b4f79,truant.boston,available,23.49,23.49,low,low,6,namesilo,,,08/08/2026 01:41
-14d68a38-fa23-4820-8c73-85e625ae9126,naming.boston,available,23.49,23.49,high,low,6,namesilo,,,
+14d68a38-fa23-4820-8c73-85e625ae9126,naming.boston,available,23.49,23.49,medium,low,6,namesilo,,,19/09/2026 13:00
 e256db21-b181-4a52-8e38-f1542e8812f7,walking.boston,premium,242,21.24,high,low,7,namesilo,,,
 cc7a058b-be20-430e-aa46-cad14478f8df,cloud.boston,resell,,,medium,medium,5,"NameCheap, Inc.",30/05/2021 23:46,30/05/2027 23:46,08/09/2026 12:26
 a51cecdb-8421-443f-9b12-51d5c2739ff2,bareheaded.boston,available,23.49,23.49,low,low,10,namesilo,,,08/08/2026 18:49
@@ -722,7 +720,7 @@ d717f890-3d42-4929-a02b-46e7c3d6ba27,lookingat.boston,available,23.49,23.49,medi
 cce64783-e84d-4b80-a1c7-7d5103eb695a,airlike.boston,available,23.49,23.49,low,low,7,namesilo,,,
 06e7b174-acfa-4b3a-bb01-18a0f7713689,fallfor.boston,available,23.49,23.49,medium,low,8,namesilo,,,
 2e635936-d291-4d90-b0b2-653225d319c2,fix.boston,available,,,medium,low,3,,,,
-3d64ff68-5710-4636-b8fd-2eabd84b594c,MMR.boston,premium,47.2,21.24,high,low,3,namesilo,,,
+3d64ff68-5710-4636-b8fd-2eabd84b594c,mmr.boston,premium,47.2,21.24,high,low,3,namesilo,,,
 d62c00ce-58c2-49fa-b997-6e130555ddad,wonder.boston,available,23.49,23.49,high,medium,6,namesilo,,,
 769bdc37-5db2-4c40-b9f1-8d1de06d40be,understood.boston,available,23.49,23.49,high,low,10,namesilo,,,
 7d269ded-c033-47a5-ba55-561b3632a00d,mouth.boston,available,23.49,23.49,medium,low,5,namesilo,,,08/09/2026 03:51
@@ -751,7 +749,7 @@ bbb63218-d385-484e-8aaa-e209ad55f497,outing.boston,available,23.49,23.49,high,lo
 7b9faa4d-69ff-4db3-b454-1119341726bc,heavyhearted.boston,available,23.49,23.49,medium,low,13,namesilo,,,
 6965cbd1-46b4-4cfe-b22a-bd12dea7f2ac,psycho.boston,available,23.49,23.49,high,low,6,namesilo,,,
 f2493e36-d03d-46ba-8d89-b53ee1525a1e,pussy.boston,premium,242,21.24,medium,low,5,namesilo,,,
-79c6958c-2636-45bb-97a0-3eb836ae0685,MasterofScience.boston,available,23.49,23.49,medium,low,17,namesilo,,,
+79c6958c-2636-45bb-97a0-3eb836ae0685,masterofscience.boston,available,23.49,23.49,medium,low,17,namesilo,,,
 f697b93c-cea1-41a6-a5ba-8576834a6eb8,giveway.boston,available,23.49,23.49,medium,low,8,namesilo,,,
 230c2b91-f92a-47bb-94f9-93c73a6e06df,coffin.boston,available,23.49,23.49,medium,low,6,namesilo,,,
 87f7d03b-50dd-4bed-9625-9af4d78f6eae,faded.boston,available,30.98,,medium,low,5,namecheap,,,
@@ -764,21 +762,21 @@ a7ed0f1e-1f8d-4507-ac2f-75d09de64b52,device.boston,available,23.49,23.49,high,lo
 c7656539-7570-420a-900c-e302d437f1d1,abovementioned.boston,available,23.49,23.49,medium,low,15,namesilo,,,
 ef68b420-48ae-4ad6-af99-47089f1dfcbf,circle.boston,premium,50,,medium,medium,6,name.com,,,
 048ebccc-ccf3-4414-bc66-3a99351e5e62,havetime.boston,available,30.98,,high,low,9,namecheap,,,
-3585a6da-c8cb-435a-8d31-bf43e9969f4b,come.boston,resell,,,high,low,4,"NameCheap, Inc.",20/08/2025 10:08,20/08/2026 10:08,
+3585a6da-c8cb-435a-8d31-bf43e9969f4b,come.boston,resell,,,high,low,4,"NameCheap, Inc.",20/08/2025 10:08,20/08/2027 10:08,21/09/2026 01:47
 cad6f510-0f4d-432f-a5f1-974fcec6c657,setfree.boston,available,23.49,23.49,medium,low,8,namesilo,,,
 2ac83e22-b4c2-45cf-a998-b20415665008,moved.boston,available,23.49,23.49,high,low,5,namesilo,,,
 ee956803-c77e-407c-8dcd-255ffe7c3ef3,hangout.boston,premium,500,,high,low,8,name.com,,,
 c95abe86-cf3a-453e-8b4e-9f9b7456ea1b,menu.boston,premium,104,19.5,high,low,4,namecheap,,,
 d269c87e-2a2c-45cd-9ac9-0c9ccaebc453,detective.boston,available,23.49,23.49,high,low,9,namesilo,,,
-6a3d2427-33c7-443e-b8ff-980e33ad6e1f,Seals.boston,available,23.49,23.49,medium,low,5,namesilo,,,
+6a3d2427-33c7-443e-b8ff-980e33ad6e1f,seals.boston,available,23.49,23.49,medium,low,5,namesilo,,,
 79e733a9-3fec-4d81-a1e9-5040c57c2221,false.boston,available,30.98,,medium,low,5,namecheap,,,
 76c3365a-75f5-4407-b511-1eb22a7361dc,releaseversion.boston,available,23.49,23.49,high,low,15,namesilo,,,
 e5fec6af-004f-4499-9ad9-8be50cc6d564,autogenous.boston,available,24.98,30.98,low,low,10,namecheap,,,07/08/2026 20:16
-12f49fdf-934f-4465-892a-d3f6fa5ba30f,Bflat.boston,available,23.49,23.49,medium,low,6,namesilo,,,
+12f49fdf-934f-4465-892a-d3f6fa5ba30f,bflat.boston,available,23.49,23.49,medium,low,6,namesilo,,,
 67152f55-e365-438b-9f9b-64bf657c0884,specification.boston,available,23.49,23.49,low,low,13,namesilo,,,
 5dd589d4-34b9-4a88-a1ef-56080f067a47,closely.boston,available,23.49,23.49,medium,low,7,namesilo,,,
 006c2871-84f2-4d50-9b94-435627d46298,believable.boston,available,23.49,23.49,low,low,10,namesilo,,,09/08/2026 13:01
-d8f98e23-54b4-4980-b44e-892a976dbb8f,Pentium.boston,available,23.49,23.49,high,low,7,namesilo,,,
+d8f98e23-54b4-4980-b44e-892a976dbb8f,pentium.boston,available,23.49,23.49,high,low,7,namesilo,,,
 69b5580e-d2e5-46af-aa17-99d1d6964aef,concealed.boston,available,19.99,27.99,medium,low,9,name.com,,,
 704af30b-192c-460b-8b1f-e2a9c2c015a6,bass.boston,available,23.49,23.49,medium,low,4,namesilo,,,
 68da2433-6263-46f5-b5eb-2b2766775098,lordly.boston,available,23.49,23.49,low,low,6,namesilo,,,07/08/2026 17:05
@@ -788,17 +786,16 @@ ffa2444e-22c1-4549-bc5e-b1b66cbc9439,twentysix.boston,available,19.99,27.99,high
 9e2c9da7-a1a6-4e23-af93-0e727f245cc6,dying.boston,available,19.99,27.99,high,low,5,name.com,,,
 53eec8cb-62e7-44b2-95cf-56792889c927,terribly.boston,available,23.49,23.49,medium,low,8,namesilo,,,
 41b3fe39-f66e-4c6f-89a3-514f87f177b6,grownup.boston,available,23.49,23.49,low,low,7,namesilo,,,
-24e2c486-ba66-41ee-8acb-b3f6c95a19cd,Frenchrice.boston,available,30.98,,high,low,11,namecheap,,,
+24e2c486-ba66-41ee-8acb-b3f6c95a19cd,frenchrice.boston,available,30.98,,high,low,11,namecheap,,,
 013ff13b-27df-4aec-a290-4ce05ed4ce38,whom.boston,available,23.49,23.49,low,low,4,namesilo,,,
 560017dc-1d90-44d2-9d0f-975ddc0ddfca,keepsomeonecompany.boston,available,23.49,23.49,high,low,20,namesilo,,,
 f0875f10-51ea-4bec-8c14-f62f1e549234,needing.boston,available,23.49,23.49,high,low,7,namesilo,,,
-6bb1d5df-b7b1-43e1-a7e9-b65d797ff2b7,pastrychef.boston,available,23.49,23.49,medium,low,11,namesilo,,,14/09/2026 04:03
+6bb1d5df-b7b1-43e1-a7e9-b65d797ff2b7,pastrychef.boston,available,23.49,23.49,medium,low,11,namesilo,,,19/09/2026 03:45
 cb4dc226-ddc3-430f-bf0f-ba4159a5625d,comeclose.boston,available,23.49,23.49,low,low,10,namesilo,,,06/08/2026 09:44
-fff15317-2006-4e73-8835-330e7619cd71,FedEx.boston,available,23.49,23.49,high,low,5,namesilo,,,
+fff15317-2006-4e73-8835-330e7619cd71,fedex.boston,available,23.49,23.49,high,low,5,namesilo,,,
 8119091a-5acc-46b8-9311-1ccccd2e5b14,well.boston,available,23.49,23.49,high,low,4,namesilo,,,
 b5f526a3-5ef9-4c6e-b3d6-3ad3efe08755,eternal.boston,available,19.99,27.99,high,medium,7,name.com,,,
 7a65b73b-5e78-474c-b780-79b97fbb7bc1,urge.boston,available,23.49,23.49,high,low,4,namesilo,,,
-eaec8e9a-e60a-4173-a87c-71de3ff426c6,OldWorld.boston,available,23.49,23.49,low,low,9,namesilo,,,
 5981563a-d7f0-4a30-a4e4-e5dcdb27c64b,anemic.boston,available,23.49,23.49,low,low,6,namesilo,,,
 48c00cbc-8940-4398-810d-4ebdde413e96,entirely.boston,available,23.49,23.49,low,low,8,namesilo,,,
 d5b0b143-b917-4a34-9800-d04982556346,clock.boston,available,23.49,23.49,medium,low,5,namesilo,,,
@@ -818,7 +815,7 @@ d859957f-b811-4413-baa6-84bb2b7b369b,puttobed.boston,available,23.49,23.49,low,l
 2151a1fc-7a69-466b-8b91-e9630737d982,checkout.boston,premium,100,,medium,low,9,name.com,,,
 65e4c55a-f104-4525-adfc-f7ec1668f187,produce.boston,available,23.49,23.49,high,low,7,namesilo,,,
 12d8931d-8e79-439c-a3c5-8ef18b1487c8,dustyrose.boston,available,23.49,23.49,low,low,10,namesilo,,,
-e8b72e59-ddb6-483c-a0d7-f971ec9f26e6,integrate.boston,available,23.49,23.49,high,low,9,namesilo,,,
+e8b72e59-ddb6-483c-a0d7-f971ec9f26e6,integrate.boston,available,24.98,30.98,medium,low,9,namecheap,,,20/09/2026 03:11
 0b0b673b-2467-4ff2-9ca9-8f24a7138ad5,kitschy.boston,available,23.49,23.49,low,low,7,namesilo,,,09/08/2026 00:53
 0945e2ae-f51f-4a3a-8e4f-10ef86651755,taxassessment.boston,available,23.49,23.49,medium,low,14,namesilo,,,
 c78f63ed-39e6-4119-b4b9-981097f1de6e,acinose.boston,available,23.49,23.49,low,low,7,namesilo,,,
@@ -852,10 +849,10 @@ bc66dbd4-1a74-4efa-974b-c484824bdd57,enlighten.boston,available,23.49,23.49,high
 a57c9bae-bfc4-4176-b2fa-3ecc96fc3cf5,ruled.boston,available,30.98,,high,low,5,namecheap,,,
 948d515d-3270-435f-b355-e27fe47f7c69,fauna.boston,available,23.49,23.49,low,low,5,namesilo,,,
 1b359ef7-0576-4fd2-aa5a-ba177d255052,walk.boston,available,,,high,low,4,,,,
-d440dee0-e7ad-48e0-a432-a1900801b383,cream.boston,available,23.49,23.49,medium,low,5,namesilo,,,15/09/2026 10:29
+d440dee0-e7ad-48e0-a432-a1900801b383,cream.boston,available,23.49,23.49,medium,low,5,namesilo,,,19/09/2026 04:58
 c056dabb-a44e-4fdd-b712-3c0e241b2d9b,ameboid.boston,available,23.49,23.49,low,low,7,namesilo,,,
 9a728688-845c-44ce-9107-c9a783f9b2a1,back.boston,available,23.49,23.49,high,low,4,namesilo,,,
-ccd6ad2a-ae9d-4c6b-bdd2-9ad697192913,effort.boston,available,23.49,23.49,medium,low,6,namesilo,,,15/09/2026 00:59
+ccd6ad2a-ae9d-4c6b-bdd2-9ad697192913,effort.boston,available,23.49,23.49,medium,low,6,namesilo,,,19/09/2026 09:55
 51fba09f-a8b4-4c6e-9967-22d882500eee,ape.boston,premium,96,21.24,medium,low,3,namesilo,,,
 a46e8fef-f6e5-4ed7-9273-8288f0594283,asocial.boston,available,23.49,23.49,low,low,7,namesilo,,,07/08/2026 04:36
 3b7f7c48-b7bd-4bf0-98df-ebd5fcd44204,exactly.boston,available,23.49,23.49,high,low,7,namesilo,,,
@@ -922,12 +919,12 @@ cc2a5ce7-b651-45f7-9f62-7b3fb0299f55,crackers.boston,available,23.49,23.49,low,l
 84e0d2d8-a34b-45e7-a3d0-f5190a394f5a,caper.boston,available,30.98,,high,low,5,namecheap,,,
 23ddf9c9-e8c2-4548-9c54-79fc6545997f,deserted.boston,available,23.49,23.49,low,low,8,namesilo,,,
 3a89e046-791e-488b-81ab-640a3ba3fa40,limitation.boston,available,23.49,23.49,medium,low,10,namesilo,,,
-8d8ce118-7be2-4719-9a64-0a94a02a3859,MexicoCity.boston,available,23.49,23.49,medium,low,11,namesilo,,,
+8d8ce118-7be2-4719-9a64-0a94a02a3859,mexicocity.boston,available,23.49,23.49,medium,low,11,namesilo,,,
 63abc4d5-3d80-41a2-8654-06dcae13b75a,autistic.boston,available,23.49,23.49,low,low,8,namesilo,,,07/08/2026 19:22
 376cd4d3-2ff8-4b84-bfa3-f00d06def221,getthepoint.boston,available,23.49,23.49,high,low,13,namesilo,,,
 015e000a-9eb4-42bf-9f60-174939a59639,hungry.boston,available,23.49,23.49,high,low,6,namesilo,,,
 9c16f505-20aa-4c86-bd21-3e090a6725d9,aweigh.boston,available,23.49,23.49,low,low,6,namesilo,,,07/08/2026 14:29
-9187eedc-fcdd-48bd-9056-d3dfe0d3a6e6,StFrancis.boston,available,23.49,23.49,medium,low,11,namesilo,,,
+9187eedc-fcdd-48bd-9056-d3dfe0d3a6e6,stfrancis.boston,available,23.49,23.49,medium,low,11,namesilo,,,
 01cddfb3-661a-46f5-830b-4b7d30a930ea,channukah.boston,available,23.49,23.49,medium,low,9,namesilo,,,
 ace26cb3-0d2e-4ef3-b600-23bae41c6617,feb.boston,premium,47.2,21.24,high,low,3,namesilo,,,
 ab57e175-5c4e-43c5-b0ef-b666c5731bdb,setabout.boston,available,23.49,23.49,medium,low,9,namesilo,,,
@@ -943,14 +940,14 @@ f339bc9e-54ec-4627-854d-947c2be6c7ac,craft.boston,available,19.99,27.99,high,med
 aadbbf4f-415d-4a21-8e56-6ed5c07ac138,takebystorm.boston,available,23.49,23.49,low,low,13,namesilo,,,
 ec9b3f66-fa06-4242-99e1-c6bd55a5794e,gettofirstbase.boston,available,23.49,23.49,high,low,17,namesilo,,,
 54fefbbc-8cb7-4dcd-983b-9d7407f78e49,artful.boston,available,23.49,23.49,low,low,6,namesilo,,,06/08/2026 22:44
-edd70c5f-b32e-4de1-a4fd-dde433a84cd5,computer.boston,premium,47.2,21.24,medium,low,8,namesilo,,,14/09/2026 03:44
+edd70c5f-b32e-4de1-a4fd-dde433a84cd5,computer.boston,premium,47.2,21.24,medium,low,8,namesilo,,,19/09/2026 07:18
 00f49e75-0384-4c42-87ef-5cf38e3fb893,annelid.boston,available,23.49,23.49,low,low,7,namesilo,,,
-a3e3ea48-6a3f-4353-ade8-666e43d84109,RedSquare.boston,available,23.49,23.49,low,low,10,namesilo,,,
+a3e3ea48-6a3f-4353-ade8-666e43d84109,redsquare.boston,available,23.49,23.49,low,low,10,namesilo,,,
 168c751d-615a-4534-8f50-0b1fc21fd732,lifelesson.boston,available,30.98,,high,low,11,namecheap,,,
 1d31ce35-4eef-4cea-b17e-822575fa5f0a,brandnew.boston,available,23.49,23.49,high,low,9,namesilo,,,
 3e3a99bf-67c3-4557-9bcf-556dcd81ea4d,roger.boston,premium,47.2,21.24,high,low,5,namesilo,,,
 2a4064de-9387-4812-9f98-2ef93379011d,hospital.boston,premium,854,302.5,medium,low,8,namesilo,,,
-878a90e1-b230-4821-a70b-29d43e843321,Godlovesomeone.boston,available,30.98,,medium,low,16,namecheap,,,
+878a90e1-b230-4821-a70b-29d43e843321,godlovesomeone.boston,available,30.98,,medium,low,16,namecheap,,,
 5f130705-54e5-4449-8ceb-8cc445f07e41,sixtyfive.boston,available,23.49,23.49,low,low,10,namesilo,,,
 0e6f3ffb-57f6-47dd-a142-587a8576de80,according.boston,available,23.49,23.49,low,low,9,namesilo,,,
 2c19c5d8-5145-456b-bd95-90444ed48e5b,basically.boston,available,23.49,23.49,medium,low,9,namesilo,,,
@@ -977,7 +974,7 @@ e411761c-e23f-47a8-8dd0-0d3264548a31,airy.boston,available,23.49,23.49,low,low,4
 93c7b42d-fe26-45a4-a3ca-5ce081d3a46a,share.boston,available,,,high,medium,5,,,,
 fd3705a9-0451-44b0-9f51-019d8c8ae8c8,additive.boston,available,23.49,23.49,low,low,8,namesilo,,,
 d64c402d-1393-4e2d-bace-33530be5930a,onemillion.boston,available,23.49,23.49,low,low,11,namesilo,,,
-38c173ec-cc2d-439b-9704-30273038b6ca,Panasonic.boston,available,23.49,23.49,high,medium,9,namesilo,,,
+38c173ec-cc2d-439b-9704-30273038b6ca,panasonic.boston,available,23.49,23.49,high,medium,9,namesilo,,,
 cd5ac326-b520-4d42-83a0-b96be28ee423,clxxv.boston,available,23.49,23.49,low,low,5,namesilo,,,
 5b1f3d8c-fc4d-4d87-ade6-70a22f4ba5a4,trivial.boston,available,23.49,23.49,high,low,7,namesilo,,,
 903de0cb-b0b7-4de0-8da0-1b7d77831375,retro.boston,premium,96,21.24,high,medium,5,namesilo,,,
@@ -999,3 +996,6 @@ b057d320-a11f-4ceb-8ef5-444039094816,understand.boston,available,23.49,23.49,hig
 83b72aed-8c7b-4c0d-8f5a-585631e2e961,colombo.boston,available,23.49,23.49,high,low,7,namesilo,,,
 108a33c9-985e-4ea2-9c29-2dc4875040af,invaluable.boston,available,23.49,23.49,high,low,10,namesilo,,,
 0de37274-aa5d-48c6-816c-83dc7a958a59,conventionally.boston,available,30.98,,medium,low,14,namecheap,,,
+fcb691b2-304b-4a11-beda-c26911cdab40,letgo.boston,available,23.49,23.49,high,low,6,namesilo,,,
+fa07f98e-3cf3-483e-94a8-0b91926eda0d,lag.boston,premium,47.2,21.24,medium,low,3,namesilo,,,
+faa5ca33-59ef-46d2-a30e-19b356099c87,laws.boston,available,,,high,low,4,,,,
