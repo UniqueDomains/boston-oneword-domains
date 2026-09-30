@@ -1,10 +1,10 @@
-# Available .BOSTON One-Word Domains (26,760)
+# Available .BOSTON One-Word Domains (28,965)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C760%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C965%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .boston one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,760 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,965 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,760 domains · **Median ask:** $35.87 · **High-demand under $2,500:** 49
+**Public extract:** 1,000 rows · **Live catalog:** 28,965 domains · **Median ask:** $35.13 · **High-demand under $2,500:** 58
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/boston`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| adad.boston   | available | $23.49    | $23.49        | medium         | low    | 4      | namesilo                                                  |
-| apt.boston    | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                                           |
-| alb.boston    | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                  |
-| airy.boston   | available | $23.49    | $23.49        | high           | low    | 4      | namesilo                                                  |
-| joe.boston    | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| ann.boston    | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                  |
-| anpu.boston   | available | $23.49    | $23.49        | medium         | low    | 4      | namesilo                                                  |
-| pro.boston    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
-| bao.boston    | premium   | $41.60    | $18.83        | medium         | low    | 3      | spaceship                                                 |
-| arda.boston   | available | $23.49    | $23.49        | high           | low    | 4      | namesilo                                                  |
-| come.boston   | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
-| bat.boston    | premium   | $52       | $23.40        | high           | low    | 3      | namecheap                                                 |
-| bale.boston   | available | $23.49    | $23.49        | medium         | low    | 4      | namesilo                                                  |
-| revive.boston | resell    | —         | —             | high           | low    | 6      | —                                                         |
-| dai.boston    | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                  |
-| bent.boston   | available | $23.49    | $23.49        | medium         | low    | 4      | namesilo                                                  |
-| der.boston    | premium   | $40.50    | —             | medium         | low    | 3      | unstoppable                                               |
-| chas.boston   | available | $23.49    | $23.49        | medium         | low    | 4      | namesilo                                                  |
-| did.boston    | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                  |
-| clad.boston   | available | $23.49    | $23.49        | high           | low    | 4      | namesilo                                                  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| adad.boston | available | $23.49    | $23.49        | medium         | low    | 4      | namesilo                                                  |
+| apt.boston  | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                                           |
+| alb.boston  | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                  |
+| airy.boston | available | $23.49    | $23.49        | high           | low    | 4      | namesilo                                                  |
+| joe.boston  | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| ann.boston  | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                  |
+| anpu.boston | available | $23.49    | $23.49        | medium         | low    | 4      | namesilo                                                  |
+| pro.boston  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| bao.boston  | premium   | $41.60    | $18.83        | high           | low    | 3      | spaceship                                                 |
+| arda.boston | available | $23.49    | $23.49        | high           | low    | 4      | namesilo                                                  |
+| come.boston | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
+| bat.boston  | premium   | $52       | $23.40        | high           | low    | 3      | namecheap                                                 |
+| bent.boston | available | $23.49    | $23.49        | medium         | low    | 4      | namesilo                                                  |
+| csf.boston  | premium   | $40.50    | —             | medium         | low    | 3      | unstoppable                                               |
+| bohr.boston | available | $24.98    | $30.98        | medium         | low    | 4      | namecheap                                                 |
+| dai.boston  | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                  |
+| chas.boston | available | $23.49    | $23.49        | medium         | low    | 4      | namesilo                                                  |
+| der.boston  | premium   | $40.50    | —             | medium         | low    | 3      | unstoppable                                               |
+| clad.boston | available | $23.49    | $23.49        | high           | low    | 4      | namesilo                                                  |
+| dre.boston  | premium   | $40.50    | —             | high           | low    | 3      | unstoppable                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,760 live domains                        |
+| 1,000-row public sample | 28,965 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 49 high-demand names under $2,500          |
+| Basic exported fields   | 58 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOSTON One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOSTON One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
